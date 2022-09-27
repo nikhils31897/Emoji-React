@@ -1,2 +1,2 @@
 # Emoji-React
-Created with CodeSandbox
+This is an emoji search app,which will let you know the name of emoji which you search.
